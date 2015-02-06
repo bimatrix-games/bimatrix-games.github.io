@@ -8,7 +8,7 @@ title: Bimatrix Games
 
 Bimatrix games is library of games useful for testing game theoretic algorithms.
 The library was built as an extension to the currently existing GAMUT library of
-games due to its lack of games which were hard to solve for exact algorithms.
+games due to its lack of games which were hard to solve for approximate algorithms.
 With that in mind, we built this library as a test suite for approximation
 algorithms. There are currently two projects hosted :
 
